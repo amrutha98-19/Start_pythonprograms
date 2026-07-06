@@ -1,0 +1,7 @@
+# Sum of 1 to N numbers
+
+num=int(input("Enter Number:"))
+sum=0
+for i in range(1,num+1):
+    sum+=i
+print(f"sum of 1 to {num} numbers:",sum)
