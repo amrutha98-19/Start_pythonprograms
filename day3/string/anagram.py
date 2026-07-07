@@ -1,3 +1,4 @@
+#check anagram
 text1=input("Enter first text:")
 text2=input("Enter second text:")
 text1=text1.lower().replace(" ", "")
