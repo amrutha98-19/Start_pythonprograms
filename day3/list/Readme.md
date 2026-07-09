@@ -12,6 +12,8 @@ Day 03 ->  Continue with python learning journey.
   - Use negative index to access items from the end
   - Can store different data types
   - Created using square brackets []
+
+  
  Goal
  ********
  To understand lists and their various uses in Python.
