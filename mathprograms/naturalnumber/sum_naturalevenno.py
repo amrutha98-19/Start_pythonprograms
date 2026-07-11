@@ -1,0 +1,8 @@
+# Find the sum of even numbers up to n
+#formula/syntax: sum_even += i where i % 2 == 0
+num=int(input("Enter number:"))
+sum_even=0
+for i in range(1,num+1):
+    if i%2==0:
+        sum_even+=i
+print("sum of even numbers=",sum_even)
