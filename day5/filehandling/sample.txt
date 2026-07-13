@@ -1,0 +1,5 @@
+Python is highlevel programming language 
+Interpreted language
+ Python is easy to learn
+
+Simple and powerful language.
