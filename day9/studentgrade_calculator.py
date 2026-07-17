@@ -14,7 +14,7 @@ obtainedmarks = 0
 # Collect marks with validation
 for i in range(subjects):
     while True:
-        marks = float(input(f"Enter marks for subject {i+1}: "))
+        marks = float(input(f" Enter marks for subject {i+1}: "))
 
         if 0 <= marks <= maximum_mark:
             obtainedmarks += marks
