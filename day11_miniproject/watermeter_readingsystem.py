@@ -103,6 +103,7 @@ while True:
         print("\nThank you for using Water Meter Reading System.")
         print("Program Closed Successfully.")
         break
+    
     else:
         print("Invalid choice! Please enter a number between 1 and 5.")
 
